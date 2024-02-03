@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
     </a>
     <a href="">
-      <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
+      <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
     </a>
   </div>
 </div>
